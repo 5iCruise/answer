@@ -1,0 +1,21 @@
+{
+  "name": "answer",
+  "description": "一个基于Node+Express+MySQL开发的简易问答社区系统",
+  "main": "app.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/vender/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery-validation": "^1.15.0",
+    "underscore": "^1.8.3"
+  }
+}
